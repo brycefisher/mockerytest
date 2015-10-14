@@ -12,3 +12,14 @@ $ go get github.com/vektra/mockery/cmd/mockery/
 $ go get github.com/stretchr/mock/
 $ go get github.com/brycefisher/mockerytest/
 ```
+
+## Testing
+
+```
+cd $GOPATH/src/brycefisher/mockerytest
+go test
+```
+
+...which gives me this
+
+![./go-test-failure.png](Running go test fails horribly)
