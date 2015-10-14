@@ -22,4 +22,4 @@ go test
 
 ...which gives me this
 
-![./go-test-failure.png](Running go test fails horribly)
+![Running go test fails horribly](./go-test-failure.png)
